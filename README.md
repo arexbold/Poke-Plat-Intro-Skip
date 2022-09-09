@@ -3,7 +3,9 @@
 This is an intro skip for Pokemon Platinum to make running Kaizo IronMON much less painful. 
 
 Romhack made by Arex - 
+
 Twitch: [@Arex](https://twitch.tv/Arex)
+
 Twitter: [@ArexBold](https://twitter.com/ArexBold)
 
 The IronMON challenge (created by [@iateyourpie](https://twitch.tv/iateyourpie)) is a brutally hard challenge for Pokemon games. More info: [ironmon.gg](http://ironmon.gg)
