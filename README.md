@@ -15,7 +15,7 @@ The IronMON challenge (created by [@iateyourpie](https://twitch.tv/iateyourpie))
 2. Cut dialogue.
 3. No catch tutorial.
 
-Skipped cutscenes: Lake Verity with Cyrus, Mom and Rival's mom, Looker's Intro, Clown Quizzes
+Skipped cutscenes: Lake Verity with Cyrus, Lab with Rowan, Mom and Rival's mom talk, Looker's Intro, Clown Quizzes
 
 ## QOL Updates:
 1. Nickname Pokemon at briefcase.
