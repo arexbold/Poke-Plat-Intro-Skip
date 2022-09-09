@@ -11,9 +11,10 @@ Twitter: [@ArexBold](https://twitter.com/ArexBold)
 The IronMON challenge (created by [@iateyourpie](https://twitch.tv/iateyourpie)) is a brutally hard challenge for Pokemon games. More info: [ironmon.gg](http://ironmon.gg)
 
 ## Features
-1. Skips many cutscenes.
-2. Cut dialogue.
-3. No catch tutorial.
+1. Skips new game info panel and ball touch in pre-intro.
+2. Skips many cutscenes.
+3. Cut dialogue.
+4. No catch tutorial.
 
 Skipped cutscenes: Lake Verity with Cyrus, Lab with Rowan, Mom and Rival's mom talk, Looker's Intro, Clown Quizzes
 
