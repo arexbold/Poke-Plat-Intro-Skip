@@ -24,7 +24,7 @@ The IronMON challenge (created by [@iateyourpie](https://twitch.tv/iateyourpie))
 3. Sand Gem Pokemon Center has a name rater (in case you forgot to name your mon).
 
 ## Installing:
-1. Make sure to download the correct patch corresponding to your rom version:
+1. Make sure to download the correct patch corresponding to your rom version from [releases](https://github.com/arexbold/Poke-Plat-Intro-Skip/releases):
 
 | Patch | ROM Version | ROM MD5 |
 | --- | --- | ---|
