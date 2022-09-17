@@ -22,6 +22,7 @@ Skipped cutscenes: Lake Verity with Cyrus, Lab with Rowan, Mom and Rival's mom t
 1. Nickname Pokemon at briefcase.
 2. Instant Pokemon Center heals.
 3. Sand Gem Pokemon Center has a name rater (in case you forgot to name your mon).
+4. Moved NPCs and objects that annoyingly got in the way of paths to items.
 
 ## Installing:
 1. Make sure to download the correct patch corresponding to your rom version from [releases](https://github.com/arexbold/Poke-Plat-Intro-Skip/releases)
